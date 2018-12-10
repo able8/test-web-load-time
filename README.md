@@ -4,8 +4,14 @@ Simple web load testing script using curl command.
 
 # how to
 
+- clone this repo then run
 ```bash
 bash test-web-load-time.sh
+```
+
+- or 
+```
+curl -s https://raw.githubusercontent.com/able8/test-web-load-time/master/test-web-load-time.sh | bash
 ```
 
 # output
